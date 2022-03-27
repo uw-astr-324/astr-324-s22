@@ -1,4 +1,4 @@
-# ASTR 324, Spring 2022, University of Washington: 
+# ASTR 324, Spring 2022, University of Washington
 # Introduction to Statistics and Machine Learning in Astronomy
 
 [Mario Jurić](http://research.majuric.org), [@mjuric](https://github.com/mjuric) on GitHub
@@ -16,7 +16,7 @@ This repository ASTR 324 class materials. To get the latest versions into the cl
 
  * [Syllabus and course description](syllabus/syllabus.pdf)
  * Lectures: [Notebooks](lectures/), [Videos](https://dirac.us/videos324)
- * [Canvas](https://canvas.uw.edu/courses/1447627) (used for quizzes only).
+ * [Canvas](https://canvas.uw.edu/courses/1546325) (used for quizzes only).
  * [Homework assignments](https://github.com/uw-astr-324/astr-324-s22-homeworks)
  * JupyterHub: [JupyterHub](https://dirac.us/hub324), [instructions](https://docs.google.com/document/d/1KPZbA5fGO9UrFUTyuKA6DSQ7aQpQ1VDfT-veuL8Q9Qo/edit?usp=sharing)
 
